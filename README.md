@@ -1,7 +1,7 @@
 # 📦 Crypto++ Demo
  This repository demonstrates how to use the **Crypto++** (Crypto++) v8.9(Oct 2, 2023 Released) library in simple C++ projects. It includes hashing, AES encryption/decryption.<br/>
  ✅ Tested on Windows 10 / Visual Studio 2019 / CMake 3.31.8 
-<br/>
+<br/><br/>
 
 # 🧩 About Crypto++
 This repository demonstrates how to use the **Crypto++** (https://cryptopp.com/) library in simple C++ projects. 
@@ -70,6 +70,10 @@ int CRYPTOPP_API main(int argc, char *argv[]) {
 	auto decryptedtext = AESDecrypt(plainText, key, initVector);
 }
 ```
+<br/><br/>
+
+## 💻 [Preview]
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/b2c16183-0a7e-4bb4-91c3-bd180cb51685" />
 <br/><br/>
 
 ## 🧪 Running Examples
